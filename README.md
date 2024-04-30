@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinayak-k
-- 👀 I know PHP, Python, React, Javascript.
+- 👀 I know PHP, Python, Javascript, React, NextJs, Node, Express .
 - 🌱 I’m currently learning MERN, MEAN and FARM.
 - 💞️ I’m looking to collaborate on MERN, MEAN and FARM
 - 📫 connect me @ - vinayakjee@gmail.com
